@@ -1,3 +1,5 @@
+This project exists to resolve ATB's Veracode scanning library issues that existed in the original Strapi pack
+
 # strapi
 
 [![npm version](https://img.shields.io/npm/v/strapi.svg)](https://www.npmjs.org/package/strapi)
